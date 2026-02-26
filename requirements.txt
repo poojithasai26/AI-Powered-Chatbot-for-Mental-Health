@@ -4,4 +4,5 @@ langchain_groq
 scikit-learn
 numpy
 pandas
+gtts
 langchain
